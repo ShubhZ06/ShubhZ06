@@ -80,6 +80,10 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/prooject](https://github.com/ShubhZ06/prooject) • JavaScript
+- [ShubhZ06/oddo](https://github.com/ShubhZ06/oddo)
+- [ShubhZ06/odoo-1](https://github.com/ShubhZ06/odoo-1) • TypeScript
+- [ShubhZ06/odoo](https://github.com/ShubhZ06/odoo)
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/patient-management-pwa](https://github.com/ShubhZ06/patient-management-pwa) • TypeScript
 - [ysachin26/IC-Vision](https://github.com/ysachin26/IC-Vision) • TypeScript
