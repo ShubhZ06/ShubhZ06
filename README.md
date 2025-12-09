@@ -80,9 +80,9 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
-- [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
+- [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 2 • TypeScript
 - [ShubhZ06/bio-miner-ai](https://github.com/ShubhZ06/bio-miner-ai) • JavaScript
-- [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 1 • TypeScript
+- [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/BIOMINER](https://github.com/ShubhZ06/BIOMINER) • JavaScript
 - [ShubhZ06/prooject](https://github.com/ShubhZ06/prooject) • JavaScript
 - [ShubhZ06/oddo](https://github.com/ShubhZ06/oddo)
