@@ -80,10 +80,10 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/game](https://github.com/ShubhZ06/game)
 - [ShubhZ06/Fire-VR-main](https://github.com/ShubhZ06/Fire-VR-main)
 - [ShubhZ06/pec-1](https://github.com/ShubhZ06/pec-1) • TypeScript
-- [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/SurakshaSetu-1](https://github.com/ShubhZ06/SurakshaSetu-1) • TypeScript
 - [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 3 • TypeScript
 - [FrosT2k5/sih_disaster_education](https://github.com/FrosT2k5/sih_disaster_education) • TypeScript
