@@ -80,6 +80,10 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [aryanyadavpro/Vulnerable-APP](https://github.com/aryanyadavpro/Vulnerable-APP) • JavaScript
+- [ShubhZ06/fail-demo](https://github.com/ShubhZ06/fail-demo) • JavaScript
+- [ShubhZ06/opsstorm-shubham](https://github.com/ShubhZ06/opsstorm-shubham) • JavaScript
+- [ysachin26/OPSSTORM](https://github.com/ysachin26/OPSSTORM)
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/game](https://github.com/ShubhZ06/game)
 - [ShubhZ06/Fire-VR-main](https://github.com/ShubhZ06/Fire-VR-main)
