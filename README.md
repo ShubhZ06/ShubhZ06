@@ -80,9 +80,9 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/simple-flutter-project](https://github.com/ShubhZ06/simple-flutter-project) • C++
 - [ShubhZ06/Learnify-Innerve-x](https://github.com/ShubhZ06/Learnify-Innerve-x) • TypeScript
-- [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [aryanyadavpro/Vulnerable-APP](https://github.com/aryanyadavpro/Vulnerable-APP) • JavaScript
 - [ShubhZ06/fail-demo](https://github.com/ShubhZ06/fail-demo) • JavaScript
 - [ShubhZ06/opsstorm-shubham](https://github.com/ShubhZ06/opsstorm-shubham) • JavaScript
