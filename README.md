@@ -80,6 +80,7 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • Dart
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/simple-flutter-project](https://github.com/ShubhZ06/simple-flutter-project) • C++
 - [ShubhZ06/Learnify-Innerve-x](https://github.com/ShubhZ06/Learnify-Innerve-x) • TypeScript
@@ -103,7 +104,6 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 - [mezzy992/Project1](https://github.com/mezzy992/Project1) • TypeScript
 - [ShubhZ06/CyberZone-](https://github.com/ShubhZ06/CyberZone-) • TypeScript
 - [ShubhZ06/CodeMaster](https://github.com/ShubhZ06/CodeMaster) — CodeMaster is a JavaFX app for learning, practicing, and executing code in C, C++, Java, and Python. It offers chapter-wise notes, coding exercises, an in-built compiler, and user progress tracking. Integrated with MySQL, it ensures seamless data management. Styled with CSS for a modern UI. 🚀 • Java
-- [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • Dart
 - [ShubhZ06/PTSD-VR-SIMULATION](https://github.com/ShubhZ06/PTSD-VR-SIMULATION)
 <!-- REPO-LIST:OWNED:END -->
 
