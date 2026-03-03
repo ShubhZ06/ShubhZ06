@@ -111,7 +111,7 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Collaborator / Contributed
 <!-- REPO-LIST:COLLAB:START -->
-- No repositories found yet.
+- [OT-CONTAINER-KIT/k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) — A k8s vault webhook is a Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers • ⭐ 117 • Go
 <!-- REPO-LIST:COLLAB:END -->
 
 ---
