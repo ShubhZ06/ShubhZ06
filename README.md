@@ -80,6 +80,7 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/webmaster](https://github.com/ShubhZ06/webmaster) • TypeScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/medicine-marketplace](https://github.com/ShubhZ06/medicine-marketplace) • TypeScript
 - [ShubhZ06/MonadBlitz](https://github.com/ShubhZ06/MonadBlitz)
