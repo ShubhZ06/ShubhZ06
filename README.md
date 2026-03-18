@@ -80,13 +80,13 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • Dart
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/iot-integrated-gloves-cpr-feedback](https://github.com/ShubhZ06/iot-integrated-gloves-cpr-feedback) • TypeScript
 - [ShubhZ06/webmaster](https://github.com/ShubhZ06/webmaster) • TypeScript
 - [ShubhZ06/medicine-marketplace](https://github.com/ShubhZ06/medicine-marketplace) • TypeScript
 - [ShubhZ06/MonadBlitz](https://github.com/ShubhZ06/MonadBlitz)
 - [B-Acharekar/my_simple_app](https://github.com/B-Acharekar/my_simple_app) • C++
-- [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • Dart
 - [ShubhZ06/simple-flutter-project](https://github.com/ShubhZ06/simple-flutter-project) • C++
 - [ShubhZ06/Learnify-Innerve-x](https://github.com/ShubhZ06/Learnify-Innerve-x) • TypeScript
 - [aryanyadavpro/Vulnerable-APP](https://github.com/aryanyadavpro/Vulnerable-APP) • JavaScript
