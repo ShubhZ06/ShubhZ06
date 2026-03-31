@@ -81,8 +81,9 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
 - [ShubhZ06/Stylesupply-coming-new](https://github.com/ShubhZ06/Stylesupply-coming-new) • TypeScript
-- [ShubhZ06/Style_Supply_Coming_Soon](https://github.com/ShubhZ06/Style_Supply_Coming_Soon) • TypeScript
+- [ShubhZ06/bio-miner-ai](https://github.com/ShubhZ06/bio-miner-ai) • JavaScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
+- [ShubhZ06/Style_Supply_Coming_Soon](https://github.com/ShubhZ06/Style_Supply_Coming_Soon) • TypeScript
 - [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • Dart
 - [ShubhZ06/iot-integrated-gloves-cpr-feedback](https://github.com/ShubhZ06/iot-integrated-gloves-cpr-feedback) • TypeScript
 - [ShubhZ06/webmaster](https://github.com/ShubhZ06/webmaster) • TypeScript
@@ -100,7 +101,6 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 - [ShubhZ06/SurakshaSetu-1](https://github.com/ShubhZ06/SurakshaSetu-1) • TypeScript
 - [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 3 • TypeScript
 - [FrosT2k5/sih_disaster_education](https://github.com/FrosT2k5/sih_disaster_education) • TypeScript
-- [ShubhZ06/bio-miner-ai](https://github.com/ShubhZ06/bio-miner-ai) • JavaScript
 - [ShubhZ06/BIOMINER](https://github.com/ShubhZ06/BIOMINER) • JavaScript
 - [ShubhZ06/prooject](https://github.com/ShubhZ06/prooject) • JavaScript
 - [ShubhZ06/oddo](https://github.com/ShubhZ06/oddo)
