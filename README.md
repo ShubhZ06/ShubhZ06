@@ -80,8 +80,8 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
-- [ShubhZ06/Stylesupply-coming-new](https://github.com/ShubhZ06/Stylesupply-coming-new) • TypeScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
+- [ShubhZ06/Stylesupply-coming-new](https://github.com/ShubhZ06/Stylesupply-coming-new) • TypeScript
 - [ShubhZ06/New-folder](https://github.com/ShubhZ06/New-folder) • JavaScript
 - [ShubhZ06/frontend](https://github.com/ShubhZ06/frontend) • TypeScript
 - [ShubhZ06/bio-miner-ai](https://github.com/ShubhZ06/bio-miner-ai) • JavaScript
