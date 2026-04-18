@@ -80,6 +80,7 @@ Engineering student (IT, Honors in AI/ML) passionate about building across AI, b
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/freelancer-onboarding](https://github.com/ShubhZ06/freelancer-onboarding) • TypeScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • Dart
 - [ShubhZ06/Stylesupply-coming-new](https://github.com/ShubhZ06/Stylesupply-coming-new) • TypeScript
