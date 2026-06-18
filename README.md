@@ -76,6 +76,7 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 
 ## 🌟 Featured Projects
 
+<<<<<<< HEAD
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[NutriScan](https://github.com/ShubhZ06/NutriScan)** | AI-powered barcode scanner for food products with ingredient analysis and health insights | Flutter · Python · Dart |
@@ -85,6 +86,62 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 | **[Patient Management PWA](https://github.com/ShubhZ06/patient-management-pwa)** | Progressive web app for streamlined patient record management | TypeScript · React |
 | **[CyberZone](https://github.com/ShubhZ06/CyberZone-)** | Cybersecurity-focused platform covering tools, concepts, and security workflows | TypeScript |
 | **[StyleSupply.io](https://stylesupply.io)** | Client e-commerce website — designed, developed, and deployed end-to-end (private repo) | TypeScript · React |
+=======
+- NutriScan — Flutter + Python app to scan Indian product barcodes and show nutrition; API-based ingredient analysis; 2nd place at college innovation comp.
+- PTSD VR Simulation — Unity/C# exposure therapy experience with interactive 3D elements; Hackathon winner; led design.
+- Generative AI App — Streamlit UI with Gemini API; deployed on Cloud Run during EduSkills virtual internship.
+- CodeMaster — JavaFX IDE-like tool running C/C++/Java/Python; offline GCC integration; MySQL-backed progress tracking.
+
+## 📚 Repositories
+
+- All repositories: https://github.com/ShubhZ06?tab=repositories
+
+### Owned
+<!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
+- [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • ⭐ 3 • Dart
+- [ShubhZ06/CrewSync](https://github.com/ShubhZ06/CrewSync) • TypeScript
+- [ShubhZ06/pra](https://github.com/ShubhZ06/pra) • HTML
+- [ShubhZ06/freelancer-onboarding](https://github.com/ShubhZ06/freelancer-onboarding) • TypeScript
+- [ShubhZ06/Stylesupply-coming-new](https://github.com/ShubhZ06/Stylesupply-coming-new) • TypeScript
+- [ShubhZ06/New-folder](https://github.com/ShubhZ06/New-folder) • JavaScript
+- [ShubhZ06/frontend](https://github.com/ShubhZ06/frontend) • TypeScript
+- [ShubhZ06/bio-miner-ai](https://github.com/ShubhZ06/bio-miner-ai) • JavaScript
+- [ShubhZ06/Style_Supply_Coming_Soon](https://github.com/ShubhZ06/Style_Supply_Coming_Soon) • TypeScript
+- [ShubhZ06/iot-integrated-gloves-cpr-feedback](https://github.com/ShubhZ06/iot-integrated-gloves-cpr-feedback) • TypeScript
+- [ShubhZ06/webmaster](https://github.com/ShubhZ06/webmaster) • TypeScript
+- [ShubhZ06/medicine-marketplace](https://github.com/ShubhZ06/medicine-marketplace) • TypeScript
+- [ShubhZ06/MonadBlitz](https://github.com/ShubhZ06/MonadBlitz)
+- [B-Acharekar/my_simple_app](https://github.com/B-Acharekar/my_simple_app) • C++
+- [ShubhZ06/simple-flutter-project](https://github.com/ShubhZ06/simple-flutter-project) • C++
+- [ShubhZ06/Learnify-Innerve-x](https://github.com/ShubhZ06/Learnify-Innerve-x) • TypeScript
+- [aryanyadavpro/Vulnerable-APP](https://github.com/aryanyadavpro/Vulnerable-APP) • JavaScript
+- [ShubhZ06/fail-demo](https://github.com/ShubhZ06/fail-demo) • JavaScript
+- [ShubhZ06/opsstorm-shubham](https://github.com/ShubhZ06/opsstorm-shubham) • JavaScript
+- [ShubhZ06/game](https://github.com/ShubhZ06/game)
+- [ShubhZ06/Fire-VR-main](https://github.com/ShubhZ06/Fire-VR-main)
+- [ShubhZ06/pec-1](https://github.com/ShubhZ06/pec-1) • TypeScript
+- [ShubhZ06/SurakshaSetu-1](https://github.com/ShubhZ06/SurakshaSetu-1) • TypeScript
+- [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 3 • TypeScript
+- [FrosT2k5/sih_disaster_education](https://github.com/FrosT2k5/sih_disaster_education) • TypeScript
+- [ShubhZ06/BIOMINER](https://github.com/ShubhZ06/BIOMINER) • JavaScript
+- [ShubhZ06/prooject](https://github.com/ShubhZ06/prooject) • JavaScript
+- [ShubhZ06/oddo](https://github.com/ShubhZ06/oddo)
+- [ShubhZ06/odoo-1](https://github.com/ShubhZ06/odoo-1) • TypeScript
+- [ShubhZ06/odoo](https://github.com/ShubhZ06/odoo)
+- [ShubhZ06/patient-management-pwa](https://github.com/ShubhZ06/patient-management-pwa) • TypeScript
+- [ysachin26/IC-Vision](https://github.com/ysachin26/IC-Vision) • TypeScript
+- [mezzy992/Project1](https://github.com/mezzy992/Project1) • TypeScript
+- [ShubhZ06/CyberZone-](https://github.com/ShubhZ06/CyberZone-) • TypeScript
+- [ShubhZ06/CodeMaster](https://github.com/ShubhZ06/CodeMaster) — CodeMaster is a JavaFX app for learning, practicing, and executing code in C, C++, Java, and Python. It offers chapter-wise notes, coding exercises, an in-built compiler, and user progress tracking. Integrated with MySQL, it ensures seamless data management. Styled with CSS for a modern UI. 🚀 • Java
+- [ShubhZ06/PTSD-VR-SIMULATION](https://github.com/ShubhZ06/PTSD-VR-SIMULATION)
+<!-- REPO-LIST:OWNED:END -->
+
+### Collaborator / Contributed
+<!-- REPO-LIST:COLLAB:START -->
+- [OT-CONTAINER-KIT/k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) — A k8s vault webhook is a Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers • ⭐ 117 • Go
+<!-- REPO-LIST:COLLAB:END -->
+>>>>>>> 0659e93508c9f3fe5539dfa88e9b1cdd2608ac8d
 
 ---
 
