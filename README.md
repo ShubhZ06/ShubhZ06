@@ -101,11 +101,8 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • ⭐ 3 • Dart
 - [ShubhZ06/CrewSync](https://github.com/ShubhZ06/CrewSync) • TypeScript
-- [ShubhZ06/pra](https://github.com/ShubhZ06/pra) • HTML
 - [ShubhZ06/freelancer-onboarding](https://github.com/ShubhZ06/freelancer-onboarding) • TypeScript
 - [ShubhZ06/Stylesupply-coming-new](https://github.com/ShubhZ06/Stylesupply-coming-new) • TypeScript
-- [ShubhZ06/New-folder](https://github.com/ShubhZ06/New-folder) • JavaScript
-- [ShubhZ06/frontend](https://github.com/ShubhZ06/frontend) • TypeScript
 - [ShubhZ06/bio-miner-ai](https://github.com/ShubhZ06/bio-miner-ai) • JavaScript
 - [ShubhZ06/Style_Supply_Coming_Soon](https://github.com/ShubhZ06/Style_Supply_Coming_Soon) • TypeScript
 - [ShubhZ06/iot-integrated-gloves-cpr-feedback](https://github.com/ShubhZ06/iot-integrated-gloves-cpr-feedback) • TypeScript
@@ -118,7 +115,6 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 - [aryanyadavpro/Vulnerable-APP](https://github.com/aryanyadavpro/Vulnerable-APP) • JavaScript
 - [ShubhZ06/fail-demo](https://github.com/ShubhZ06/fail-demo) • JavaScript
 - [ShubhZ06/opsstorm-shubham](https://github.com/ShubhZ06/opsstorm-shubham) • JavaScript
-- [ShubhZ06/game](https://github.com/ShubhZ06/game)
 - [ShubhZ06/Fire-VR-main](https://github.com/ShubhZ06/Fire-VR-main)
 - [ShubhZ06/pec-1](https://github.com/ShubhZ06/pec-1) • TypeScript
 - [ShubhZ06/SurakshaSetu-1](https://github.com/ShubhZ06/SurakshaSetu-1) • TypeScript
@@ -126,9 +122,6 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 - [FrosT2k5/sih_disaster_education](https://github.com/FrosT2k5/sih_disaster_education) • TypeScript
 - [ShubhZ06/BIOMINER](https://github.com/ShubhZ06/BIOMINER) • JavaScript
 - [ShubhZ06/prooject](https://github.com/ShubhZ06/prooject) • JavaScript
-- [ShubhZ06/oddo](https://github.com/ShubhZ06/oddo)
-- [ShubhZ06/odoo-1](https://github.com/ShubhZ06/odoo-1) • TypeScript
-- [ShubhZ06/odoo](https://github.com/ShubhZ06/odoo)
 - [ShubhZ06/patient-management-pwa](https://github.com/ShubhZ06/patient-management-pwa) • TypeScript
 - [ysachin26/IC-Vision](https://github.com/ysachin26/IC-Vision) • TypeScript
 - [mezzy992/Project1](https://github.com/mezzy992/Project1) • TypeScript
