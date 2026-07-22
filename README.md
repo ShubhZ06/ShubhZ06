@@ -98,6 +98,7 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/dsa-prep](https://github.com/ShubhZ06/dsa-prep) • C++
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/oddo-2026](https://github.com/ShubhZ06/oddo-2026) • TypeScript
 - [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • ⭐ 3 • Dart
