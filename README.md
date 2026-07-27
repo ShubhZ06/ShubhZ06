@@ -98,8 +98,8 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
-- [saneshaicreator/sanesh-sathe](https://github.com/saneshaicreator/sanesh-sathe) • TypeScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
+- [saneshaicreator/sanesh-sathe](https://github.com/saneshaicreator/sanesh-sathe) • TypeScript
 - [ShubhZ06/OutBreakzero-game](https://github.com/ShubhZ06/OutBreakzero-game) • C#
 - [ShubhZ06/dsa-prep](https://github.com/ShubhZ06/dsa-prep) • C++
 - [ShubhZ06/oddo-2026](https://github.com/ShubhZ06/oddo-2026) • TypeScript
