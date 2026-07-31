@@ -137,6 +137,7 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 ### Collaborator / Contributed
 <!-- REPO-LIST:COLLAB:START -->
 - [OT-CONTAINER-KIT/k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) — A k8s vault webhook is a Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers • ⭐ 117 • Go
+- [fiqieee23/FloodSense-VR](https://github.com/fiqieee23/FloodSense-VR) — VR-based flood awareness simulation for disaster preparedness using Unity.
 <!-- REPO-LIST:COLLAB:END -->
 >>>>>>> 0659e93508c9f3fe5539dfa88e9b1cdd2608ac8d
 
