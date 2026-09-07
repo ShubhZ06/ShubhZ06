@@ -98,6 +98,7 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 3 • TypeScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [aryanyadavpro/Singularity-2.0](https://github.com/aryanyadavpro/Singularity-2.0) • ⭐ 2 • CSS
 - [saneshaicreator/sanesh-sathe](https://github.com/saneshaicreator/sanesh-sathe) • TypeScript
@@ -123,7 +124,6 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 - [ShubhZ06/Fire-VR-main](https://github.com/ShubhZ06/Fire-VR-main)
 - [ShubhZ06/pec-1](https://github.com/ShubhZ06/pec-1) • TypeScript
 - [ShubhZ06/SurakshaSetu-1](https://github.com/ShubhZ06/SurakshaSetu-1) • TypeScript
-- [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 3 • TypeScript
 - [FrosT2k5/sih_disaster_education](https://github.com/FrosT2k5/sih_disaster_education) • TypeScript
 - [ShubhZ06/BIOMINER](https://github.com/ShubhZ06/BIOMINER) • JavaScript
 - [ShubhZ06/prooject](https://github.com/ShubhZ06/prooject) • JavaScript
