@@ -98,8 +98,8 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
-- [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 3 • TypeScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
+- [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 3 • TypeScript
 - [aryanyadavpro/Singularity-2.0](https://github.com/aryanyadavpro/Singularity-2.0) • ⭐ 2 • CSS
 - [saneshaicreator/sanesh-sathe](https://github.com/saneshaicreator/sanesh-sathe) • TypeScript
 - [ShubhZ06/OutBreakzero-game](https://github.com/ShubhZ06/OutBreakzero-game) • C#
