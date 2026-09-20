@@ -98,6 +98,7 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/monad_hack](https://github.com/ShubhZ06/monad_hack) • TypeScript
 - [ShubhZ06/singularity2.0](https://github.com/ShubhZ06/singularity2.0) • TypeScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [ShubhZ06/Singularity](https://github.com/ShubhZ06/Singularity) • ⭐ 3 • TypeScript
