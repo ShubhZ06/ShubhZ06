@@ -98,6 +98,7 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
+- [ShubhZ06/freelancer-onboarding](https://github.com/ShubhZ06/freelancer-onboarding) • TypeScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
 - [buildwithcirex/kanban-board](https://github.com/buildwithcirex/kanban-board) • TypeScript
 - [aryanyadavpro/pack-AI](https://github.com/aryanyadavpro/pack-AI) • TypeScript
@@ -111,7 +112,6 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 - [ShubhZ06/oddo-2026](https://github.com/ShubhZ06/oddo-2026) • TypeScript
 - [ShubhZ06/NutriScan](https://github.com/ShubhZ06/NutriScan) — NutriScan is an AI-powered Flutter app that scans food product barcodes to show nutritional information, warn about harmful or banned ingredients, and offer personalized health tips — all with a sleek, iOS-style glassmorphism design. • ⭐ 3 • Dart
 - [ShubhZ06/CrewSync](https://github.com/ShubhZ06/CrewSync) • TypeScript
-- [ShubhZ06/freelancer-onboarding](https://github.com/ShubhZ06/freelancer-onboarding) • TypeScript
 - [ShubhZ06/Stylesupply-coming-new](https://github.com/ShubhZ06/Stylesupply-coming-new) • TypeScript
 - [ShubhZ06/bio-miner-ai](https://github.com/ShubhZ06/bio-miner-ai) • JavaScript
 - [ShubhZ06/Style_Supply_Coming_Soon](https://github.com/ShubhZ06/Style_Supply_Coming_Soon) • TypeScript
