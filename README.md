@@ -98,8 +98,8 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 
 ### Owned
 <!-- REPO-LIST:OWNED:START -->
-- [ShubhZ06/freelancer-onboarding](https://github.com/ShubhZ06/freelancer-onboarding) • TypeScript
 - [ShubhZ06/ShubhZ06](https://github.com/ShubhZ06/ShubhZ06) • Python
+- [ShubhZ06/freelancer-onboarding](https://github.com/ShubhZ06/freelancer-onboarding) • TypeScript
 - [buildwithcirex/kanban-board](https://github.com/buildwithcirex/kanban-board) • TypeScript
 - [aryanyadavpro/pack-AI](https://github.com/aryanyadavpro/pack-AI) • TypeScript
 - [ShubhZ06/monad_hack](https://github.com/ShubhZ06/monad_hack) • TypeScript
