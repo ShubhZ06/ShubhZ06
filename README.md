@@ -102,7 +102,7 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 - [ce23savleen/Her_Market](https://github.com/ce23savleen/Her_Market) • TypeScript
 - [ShubhZ06/kittychain](https://github.com/ShubhZ06/kittychain) • TypeScript
 - [ShubhZ06/freelancer-onboarding](https://github.com/ShubhZ06/freelancer-onboarding) • TypeScript
-- [buildwithcirex/kanban-board](https://github.com/buildwithcirex/kanban-board) • TypeScript
+- [kc-ecell/kanban-board](https://github.com/kc-ecell/kanban-board) • TypeScript
 - [aryanyadavpro/pack-AI](https://github.com/aryanyadavpro/pack-AI) • TypeScript
 - [ShubhZ06/monad_hack](https://github.com/ShubhZ06/monad_hack) • TypeScript
 - [ShubhZ06/singularity2.0](https://github.com/ShubhZ06/singularity2.0) • TypeScript
@@ -145,7 +145,7 @@ B.Tech student in Information Technology (Honors in AI/ML) with hands-on experie
 <!-- REPO-LIST:COLLAB:START -->
 - [OT-CONTAINER-KIT/k8s-vault-webhook](https://github.com/OT-CONTAINER-KIT/k8s-vault-webhook) — A k8s vault webhook is a Kubernetes webhook that can inject secrets into Kubernetes resources by connecting to multiple secret managers • ⭐ 117 • Go
 - [fiqieee23/FloodSense-VR](https://github.com/fiqieee23/FloodSense-VR) — VR-based flood awareness simulation for disaster preparedness using Unity.
-- [buildwithcirex/Web3-SkillBuildZ](https://github.com/buildwithcirex/Web3-SkillBuildZ) • TypeScript
+- [kc-ecell/Web3-SkillBuildZ](https://github.com/kc-ecell/Web3-SkillBuildZ) • TypeScript
 <!-- REPO-LIST:COLLAB:END -->
 >>>>>>> 0659e93508c9f3fe5539dfa88e9b1cdd2608ac8d
 
